@@ -1,0 +1,26 @@
+{
+  "name": "mytests",
+  "version": "0.0.1",
+  "description": "first personnal react feat redux discovery",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dydyFos/ReactRedux101.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "dydyfos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dydyFos/ReactRedux101/issues"
+  },
+  "homepage": "https://github.com/dydyFos/ReactRedux101#readme",
+  "dependencies": {
+    "react-redux": "^5.0.1"
+  }
+}
